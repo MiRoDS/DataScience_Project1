@@ -7,7 +7,7 @@ This is the first project of the Data Science Nanodegree program. In the Jupyter
 
 2. Project Motivation: Goal was to find out whethers renters can benefit from the findings if it is possible to influence the review score rating.
 
-3. File Description: There is just one file. Just load AirBNBAnalysis.ipynb into your Jupyter-Notebook.
+3. File Description: There is just one file. Just load AirBNBAnalysis.ipynb into your Jupyter-Notebook. Furthermore, you need data. Due to upload issues, you can find it [here at Kaggle](https://www.kaggle.com/airbnb/boston/data) (select the file "listings.csv").
 
 4. How to Interact with your project: Go through the cells and execute them.
 
